@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[INSERT_YOUR_LOGO_URL_HERE]" width="400" alt="UNTYPED Logo" />
+  <img src="https://github.com/untyped-code/.github/blob/main/Gemini_Generated_Image_q8ileeq8ileeq8il-min%20(2).png" width="400" alt="UNTYPED Logo" />
 
   <br />
   <br />
